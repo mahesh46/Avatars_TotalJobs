@@ -59,6 +59,6 @@ about it. It is not necessarily changing everything in the project.
 
 Mahesh Lad
 
-Avatars-original.zip starting project
-Avatars - My Swift solution
+Avatars-original.zip starting project,
+Avatars - My Swift solution,
 AVItarUI - My SwiftUi solution
