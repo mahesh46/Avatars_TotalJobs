@@ -61,4 +61,4 @@ Mahesh Lad
 
 Avatars-original.zip starting project,
 Avatars - My Swift solution,
-AVItarUI - My SwiftUi solution.
+AVItarUI - My SwiftUi solution
